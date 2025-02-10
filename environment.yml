@@ -1,0 +1,9 @@
+dependencies:
+  - octave_kernel
+  - python=3.9.16
+  - nipype
+  - numpy
+  - nilearn
+  - scipy
+  - matplotlib
+
